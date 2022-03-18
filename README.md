@@ -1,5 +1,5 @@
 # Project_CSE_100_Project_File_Compression
-This code is made private because of the Academic Integrity.
+The code is made private because of the Academic Integrity.
 
 Send me a request if you want to take a look:)
 
